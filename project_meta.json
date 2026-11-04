@@ -1,10 +1,17 @@
 {
-  "seq": 9,
   "title": "Patch Compliance Measurement Against ASD Essential Eight Maturity Levels",
-  "slug": "patch-compliance-measurement-against-asd-essential-eigh",
+  "old_slug": "patch-compliance-measurement-against-asd-essential-eigh",
+  "slug": "e8-patch-compliance-measurement",
   "folder": "Patch_Compliance_Measurement_Against_Asd_Essential_Eigh",
   "kind": "compliance",
-  "body_words": 258,
+  "body_words": 321,
+  "source": "SCI700",
   "project_id": "Project 14",
-  "source": "SCI700"
+  "public": {
+    "public_ok": true,
+    "tier": "public-ok",
+    "reasons": [
+      "Strong portfolio narrative; synthetic baseline is fine for public"
+    ]
+  }
 }

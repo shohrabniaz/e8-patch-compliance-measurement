@@ -1,24 +1,40 @@
 # Patch Compliance Measurement Against ASD Essential Eight Maturity Levels
 
-Portfolio pack by Md Shohrab Hossen Niaz. Fictional / laboratory SME context unless noted. Professional delivery artefact — not a course-code wrapper.
+**Author:** Md Shohrab Hossen Niaz  
+**Focus:** compliance  
+**Visibility guidance:** public-ok
+
+## Overview
+
+Measurement/compliance lens on your automation/patch theme; Australian employer language.
 
 ## Research questions
 
-1. How should patch compliance be measured against Essential Eight levels?
-2. What evidence is affordable for an SME fleet?
-3. How do gaps map to maturity claims without overstating?
+1. What business problem does “Patch Compliance Measurement Against ASD Essential Eight Maturity Levels” solve for an SME or partner organisation?
+2. Which artefacts demonstrate a credible, implementable solution?
+3. How is success measured without overstating lab or synthetic evidence?
 
-## Artefacts
+## Deliverables
 
 - maturity scorecard
-- sample host evidence model
+- evidence model
 - gap remediation plan
+- Report and presentation (`Final_Submission/`)
+- Evaluation scorecard (`02_Evaluation/`)
+- Design notes (`01_Design/`)
+- Baseline evidence JSON (`evidence/`)
 
-## Contents
+## Repository layout
 
-- `Final_Submission/` — report, slides, read-me
-- `01_Design/` — design and method notes
-- `02_Evaluation/` — workbook / scorecard
-- `evidence/` — synthetic or lab JSON baseline
+```
+01_Design/           Design and method notes
+02_Evaluation/       Scorecard workbook
+evidence/            Baseline evidence model
+Final_Submission/    Report, slides, appendices
+```
 
-Repository: `patch-compliance-measurement-against-asd-essential-eigh`
+## Limits
+
+Synthetic or laboratory baselines are labelled. No production tenant secrets. Where a topic could imply offensive techniques, this pack stays defensive and high-level.
+
+**GitHub:** `e8-patch-compliance-measurement`

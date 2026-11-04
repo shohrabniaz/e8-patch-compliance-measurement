@@ -1,0 +1,19 @@
+{
+  "title": "Patch Compliance Measurement Against ASD Essential Eight Maturity Levels",
+  "seq": 9,
+  "kind": "compliance",
+  "mode": "SyntheticBaseline",
+  "generatedUtc": "2026-11-04T17:32:09.073735+00:00",
+  "author": "Md Shohrab Hossen Niaz",
+  "notes": "Baseline evidence model for portfolio reproducibility. Live lab evidence may be added later without renaming the repo.",
+  "artefacts": [
+    "maturity scorecard",
+    "sample host evidence model",
+    "gap remediation plan"
+  ],
+  "scoreModel": {
+    "baselineMaturity": 42,
+    "targetMaturity": 70,
+    "unit": "0-100 design-coverage index"
+  }
+}
